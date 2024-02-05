@@ -1,0 +1,483 @@
+.card{
+/*   width:200px !important;*/
+/*    height:200px;*/
+    border:none;
+
+}
+
+img{
+    width:180px;
+    height:150px;
+}
+.container{
+    /*border:solid  grey;*/
+    /*margin:0*/
+
+}
+/*.banner{
+
+    width:100vw;
+    height:45vh;
+    background-image:url("/home/rguktongole/Desktop/banner.png");
+    background-size: 100vw 45vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+}*/
+body{
+    /*background-image:radial-gradient( #e8e8e2, #16472e);*/
+    margin:0;
+}
+.para{
+    font-weight:1000;
+    color:green;
+}
+
+svg{
+margin-left:120px;
+}
+span{
+    color:grey;
+    margin-left:6px;
+}
+.product-card {
+    transition: transform 0.5s ease;
+}
+
+.product-card:hover {
+    transform: scale(0.94);
+    background-color: #dad8d8;
+}
+.search-bar{
+    border-radius:5px;
+    margin-left:300px;
+    background-color:white;
+    width:400px;
+
+}
+.search-btn{
+    border:none;
+    background-color:orange;
+    text-decoration: capitalize;
+    width:70px;
+    color:white;
+    font-weight:bold;
+
+}
+.search-input{
+    border:none;
+    width:311px;
+    margin-left:2px;
+
+}
+.search-input:focus{
+    outline:none;
+}
+.spinner-border{
+    color:green !important;
+}
+.close{
+    border:none !important;
+}
+.buy{
+    background-color:orange !important;
+}
+.modal{
+    background-color:lightgrey;
+}
+/* Cart.css */
+.cart-container {
+  margin: 20px;
+}
+
+.cart-list {
+  list-style: none;
+  padding: 0;
+}
+
+.cart-item {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.cart-item-image {
+  margin-right: 10px;
+}
+
+.cart-item-name {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.cart-item-price {
+  font-size: 1rem;
+  color: #777;
+}
+
+.remove-button {
+  background-color: #ff5050;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.remove-button:hover {
+  background-color: #ff3333;
+}
+/* YourCart.css */
+
+.cart-container {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.cart-list {
+  list-style: none;
+  padding: 0;
+}
+
+.cart-item {
+  display: flex;
+  margin-bottom: 15px;
+  border: 1px solid #e0e0e0;
+  padding: 10px;
+  border-radius: 8px;
+  transition: transform 0.3s;
+  position: relative; /* Needed for shaking animation */
+}
+
+.cart-item:hover {
+  transform: scale(1.03);
+}
+
+.cart-item-image {
+  margin-right: 10px;
+}
+
+.remove-button {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 5px 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.remove-button:hover {
+  background-color: #d32f2f;
+}
+
+.empty-cart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px; /* Adjust the height as needed */
+}
+
+/* Animation for item removal */
+@keyframes shakeAndFade {
+  0% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  20% {
+    transform: translateX(-5px);
+  }
+  40% {
+    transform: translateX(5px);
+  }
+  60% {
+    transform: translateX(-5px);
+  }
+  80% {
+    transform: translateX(5px);
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 0;
+  }
+}
+
+.cart-item.removing {
+  animation: shakeAndFade 0.5s;
+}
+.style{
+    font-style:italic;
+    font-weight:bold;
+
+}
+/* Define the jump animation */
+.jump-animation {
+  animation: jump 0.5s ease-in-out;
+}
+
+/* Keyframes for the jump animation */
+@keyframes jump {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px); /* Adjust the jump height as needed */
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+/* Category.css */
+
+.category-buttons {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 5px;
+  display: flex;
+  gap: 10px;
+  margin-bottom: 4px;
+
+  justify-content: flex-end;
+}
+
+.category-buttons button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color:darkgreen !important;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.category-buttons button:hover {
+  background-color: #45a049;
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+  background-color:lightgray;
+  padding:5px;
+}
+
+.search-container input {
+  padding: 9px;
+  font-size: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-right: 10px;
+  width:50%;
+}
+
+.search-container button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.search-container button:hover {
+  background-color: #0056b3;
+}
+.heading{
+     background-color:lightgray;
+}
+
+
+
+
+.cart-summary {
+  border-top: 1px solid #ddd;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.total-price {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.place-order-button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.place-order-button:hover {
+  background-color: #45a049;
+}
+.address-modal {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  width: 400px;
+  max-width: 90%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.7);
+  max-height: calc(100% - 40px); /* Adjust the value based on your header height and padding */
+  overflow-y: auto;
+}
+
+.address-modal h2 {
+  margin-bottom: 20px;
+  font-size: 1.5em;
+  color: green;
+}
+
+form {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Two columns for each row */
+  grid-gap: 10px;
+}
+
+label {
+  font-size: 0.9em;
+  color: #333;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+/*.payment-method {
+  margin-top: 10px;
+}*/
+
+.confirm-button {
+  grid-column: span 2; /* This spans both columns */
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.confirm-button:hover {
+  background-color: #45a049;
+}
+.address{
+    color:green;
+}
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  font-size: 1.5em;
+  color: #888;
+}
+
+
+.button-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.confirm-button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-right: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.confirm-button:hover {
+  background-color: #45a049;
+}
+
+.cancel-button {
+  background-color: #d9534f;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.cancel-button:hover {
+  background-color: #c9302c;
+}
+.contact-container {
+  margin: 50px auto;
+  padding: 20px;
+  max-width: 600px;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+h2 {
+  color: #333;
+}
+
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contact-item {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 10px;
+}
+.privacy-policy-container {
+  margin: 50px auto;
+  padding: 20px;
+  max-width: 800px;
+  text-align: justify;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+h2, h3 {
+  color: #333;
+}
+
+a {
+  color: #007bff;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+.policy{
+    color:green;
+}

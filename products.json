@@ -1,0 +1,436 @@
+{
+  "AgriProducts":[
+    {
+      "id":1,
+      "image": "https://www.agfarmindia.com/wp-content/uploads/2022/07/Alloy.jpg" ,
+      "name": "Alloy",
+      "description":"",
+      "price": "500/-"
+
+    },
+    {  "id":2,
+      "image": "https://www.agfarmindia.com/wp-content/uploads/2022/07/Archive-1.png" ,
+      "name": "Archive",
+      "description":"",
+      "price": "499/-"
+
+    },
+    { "id":3,
+      "image": "https://www.agfarmindia.com/wp-content/uploads/2023/01/automatic-web-2.jpg" ,
+      "name": "Automatic",
+      "description":"",
+      "price": "499/-"
+
+    },
+    {"id":4,
+      "image": "https://www.agfarmindia.com/wp-content/uploads/2022/07/Dinotrex.jpg" ,
+      "name": "Dinotrex",
+      "description":"",
+      "price": "200/-"
+
+    },
+    {"id":5,
+      "image": "https://www.agfarmindia.com/wp-content/uploads/2023/01/Durable-web-2-450x630.jpg" ,
+      "name": "Durable",
+      "description":"",
+      "price": "200/-"
+
+    },
+    {"id":6,
+      "image": "https://www.agfarmindia.com/wp-content/uploads/2022/10/halogen-450x630.jpg" ,
+      "name": "Halogen",
+      "description":"",
+      "price": "200/-"
+
+    },
+    {"id":7,
+      "image": "https://www.agfarmindia.com/wp-content/uploads/2022/06/hardy-450x630.jpg" ,
+      "name": "Hardy",
+      "description":"",
+      "price": "200/-"
+
+    },
+    {"id":7,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2022/05/img7-450x630.jpg",
+      "name":"Udayan",
+      "description":"",
+      "price":"899"
+    },
+    {"id":8,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2022/05/img5-450x630.jpg",
+      "name":"Skype",
+      "description":"",
+      "price":"799"
+    },
+    {"id":9,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2022/05/img4-450x630.jpg",
+      "name":"Sabaa",
+      "description":"",
+      "price":"699"
+    },
+    {"id":10,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2022/05/img3-450x630.jpg",
+      "name":"Remaze",
+      "description":"",
+      "price":"599"
+    },
+    {"id":11,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2023/02/Winture-2-450x630.jpg",
+      "name":"Winture",
+      "description":"",
+      "price":"499"
+    },
+    {"id":12,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2023/01/Trendly-3-450x630.jpg",
+      "name":"Trendly",
+      "description":"",
+      "price":"399"
+    },
+    {"id":13,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2022/05/img6-450x630.jpg",
+      "name":"Thanx",
+      "description":"",
+      "price":"769"
+    },
+    {"id":14,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2023/06/Stambh-image.jpg",
+      "name":"Stambh",
+      "description":"",
+      "price":"999"
+    },
+    {"id":15,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2022/07/Slog-pro-450x630.jpg",
+      "name":"Slog Pro",
+      "description":"",
+      "price":"599"
+    },
+    {"id":16,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2022/08/Pyrisuperb-450x630.jpg",
+      "name":"Pyrisuperb",
+      "description":"",
+      "price":"449"
+    },
+    {"id":18,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2022/05/Pendaze-1-450x630.png",
+      "name":"Pendaze",
+      "description":"",
+      "price":"749"
+    },
+    {"id":19,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2022/07/Occult-450x630.jpg",
+      "name":"Occult",
+      "description":"",
+      "price":"366"
+    },
+    {"id":20,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2022/05/long-450x630.jpg",
+      "name":"Longstar",
+      "description":"",
+      "price":"649"
+    },
+    {"id":21,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2022/07/Loha-450x630.jpg",
+      "name":"Loha",
+      "description":"",
+      "price":"1199"
+    },
+    {"id":22,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2022/06/libas.png",
+      "name":"Libas",
+      "description":"",
+      "price":"799"
+    },
+    {"id":23,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2022/07/Lambrin-pro-450x630.jpg",
+      "name":"Lambrin Pro",
+      "description":"",
+      "price":"699"
+    },
+    {"id":24,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2022/07/Jogger-plus-450x630.jpg",
+      "name":"Jogger Plus",
+      "description":"",
+      "price":"599"
+    },
+    {"id":24,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2022/06/img1.jpg",
+      "name":"Jogger",
+      "description":"",
+      "price":"699"
+    },
+    {"id":25,
+      "image":"https://www.agfarmindia.com/wp-content/uploads/2022/08/Inbox-1-450x630.jpg",
+      "name":"Inbox",
+      "description":"",
+      "price":"899"
+    }
+  ]
+
+,
+"AquaProducts":[
+  {"id":26,
+    "image":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ7hOYq3K8jOWYH8emB-zI5DyVXQo7es96lVtG9pfJnvu0tpTysr6C4ZJDIqjv7dN8mQU2ZUm2Wrcunkcqz7drBPUocoxkjrxCyu55SAt45y0R5E6N_jPdJ&usqp=CAY",
+    "name":"Livshine Tata",
+    "description":"Accelerates feed intake leading to rapid growth & improved health of fish. Improves FCR - Removes stress and makes fishes active Reduces culture period. Improves meat quantity - Improves power to fight diseases Organic product - Can be used for all types of fishes in ponds, biofloc, RAS, cages or any other aquaculture system. Absolutely safe for fishes. Fish growth depends on digestibility of fish feed and bio-availability of the nutrients. An increased bio-availability of the nutrients contained in the fish feed will have a positive effect on the growth and performance of cultured fishes. The anti-nutrient factors (ANFs) present in the feed must be digested for efficient release of nutrients and harmful bacteria present in the gut of fish must be controlled for rapid growth and healthier fish. This can be achieved through adding a carefully chosen mix of herbal and enzymatic feed additives for improving the digestibility of the complex feed. The outcome of our research is RALLIS FISH BOOSTER which is efficient in digesting the feed rapidly, making the nutrients bio-available and further controlling harmful bacteria in the gut, leading to rapid growth and improved health of the fish. Regular use of RALLIS BOOSTER accelerates the growth of the fish by manifolds and results in visibly healthier fish, saving the culture costs and increasing profits. Dosage: 2 ml - 3 ml per kg of feed throughout culture period or as advised by Aqua Technician. Method of Application: Dilute the required quantity of RALLIS FISH BOOSTER in equal or suitable amount of water and coat uniformly over the feed. Shade dry the feed and use for feeding the fish immediately or as advised by Aquaculture officer. Presentation: RALLIS FISH BOOSTER is available in 5 kg & 20 kg. Important: Does Not Contain Hormones Not for Human Consumption Does Not Contain Antibiotics",
+    "price":"1799"
+  },
+  {"id":27,
+    "image":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQdQf0zzZe6cJ__rR4XBowZfZ4Bna4K0ZoCmTk-_aqQeb6F-b5kJAvcKzBZYVIGrqlOZFtrhOB3UIWU7xG2_uwL1sWjNPIoFjpdQr4EhV5lergEz7rSeL3T1A&usqp=CAE",
+    "name":"FeedWale SuperBiotic",
+    "description":"SuperBiotic is an advanced biotechnological product containing beneficial bacterial communities.These bacteria operate in a synergistic relationship to biodegrade organic pollutants and reduce hydrogensulphide & toxic gases.SuperBiotic maintains optimum water quality and soil parameters for better growth of shrimps and fishes.",
+    "price":"590"
+  },
+  {"id":28,
+    "image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQcSO1O-ta9z7RfP2vI-NKZokQLwpcOanRKWQjJPEKfPWgwHtxSsfya3YDyNZfiyIV8afo-7Cwjxox_cHnTpsLdwL4xTSaCSP548kSU0EiVvQhM1ePQ8W3NAw",
+    "name":"Aqua Grow Up Mineral",
+    "description":"Aqua Gro Is A Growth Promoter For Fishes, Shrimp, Prawns And Aquaculture Enriched With Prebiotics, Probiotics & Enzymes. It Helps To Reduce Stress. It Helps To Protect From Loose Shell Syndrome. It Helps In Shell Formation. It Also Helps To Prevent Various Deficiencies In Aquatic Animals. Its An Ideal Feed Supplement For Fish, Prawn, Shrimp & Aquatic Animals. Keep Your Animals Healthy.",
+    "price":"498"
+  },
+  {"id":29,
+    "image":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQvWB_4VnvNIXx63NSZc6kOhvxrPtiu-fyte9gPTpSZz9z6X4dqpyh2ZnJvLCFgt6tLbin_Z2a0hSiwIr631JhaMPP6LlNpLJQPkBgawacxEw1ipokqVjQT&usqp=CAE",
+    "name":"Nualgi Aqua For Diatom",
+    "description":"Nualgi aqua is a Nano nutrient when added to water produces a bloom of diatoms starting almost immediately. The availability of diatoms triggers the growth of zooplankton. The watercolor changes to golden brown or light green. The growth of diatoms crashes out the blue-green algae which come out like green paint and has to be removed physically. The growth of diatoms is not measurable since they are immediately consumed by zooplankton. The growth of diatoms also produces plenty of Nanobubbles of pure oxygen underwater by photosynthesis. The zooplankton becomes food for fish and prawns. The oxygen produced underwater helps maintain good Dissolved Oxygen (D.O) in the water. The DO maintained by diatom photosynthesis is far superior to the use of mechanical aerators and far cheaper. The oxygen helps aerobic bacteria (Probiotics) clean up the fecal matter and uneaten food in the ponds thus helping have a good culture.",
+    "price":"1249"
+  },
+  {"id":30,
+    "image":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTdRv0OzQTiTm5waR2MqDXlT-Odykyat_HFfORKDYpTOZzfBBQF4QhbVrFoMcvXsMA8BiphKCze0sU_IANTi1dDuu6Qmcv4aNqlBHrMJk-CnmgGg_EgMp_K&usqp=CAE",
+    "name":"Pond Master",
+    "description":"Brand Is Pond Master. Composition Is Na. Form Is Pills. Quantity Is 500. Model Number Is Toxy Clean Probiotics & Ammonia Binder Remover From Aquaculture . Net Quantity Is 500 G. Suitable For Is Fish.",
+    "price":"1344"
+  },
+  {"id":31,
+    "image":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSZoF2zSOcytaRCVk6JTDREbJg73W7QCE4X8s_0HBQykIQnckEB36BmsR6gGs_iMZw47s8nIhEbNK52JX_sbClqCbpEwq1WZ4gQtg_BLliVz3Lqh8lHft8p7A&usqp=CAE",
+    "name":"Oasis Aquaculture",
+    "description":"Brand Is Oasis Aquaculture Solutions. Form Factor Is Crystals. Container Type Is Bottle. Quantity Is 8.81. Model Number Is 2023. Net Quantity Is 8.81 Oz.",
+    "price":"350"
+  },
+  {"id":32,
+    "image":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTCilOfjR3seo6krtjB9bBmrWx8UMoqaB2SPuKCuh36mhp98gE_pyJnN6dPZOTeUMKvCMTZmYUQUxy5aBYJkDv1TLITYB87ehOhFeOpph6XtxilrtqneHbLFA&usqp=CAE",
+    "name":"Biofera ",
+    "description":"Yeast supplement for shrimps: It’s a mixture of concentrated active yeast with high performance bacillus bacteria for good. These help in the accelerating fermentation of soya beans, rice bran, molasses, feed, etc. Composition: It’s a synergic blend of live yeast and friendly Bacillus bacteria that makes the environmental conditions of your aquacultural spaces suitable for the organisms. Dosage instructions: For fermentation, add 1 kg of yeast molasses/jaggery, rice bran, water, non-iodine salt, and agricultural lime as per the formulation. Ferment for 24 hours aerate it if possible. Then apply everything uniformly across the pond. Directions for use: As a supplement probiotic, apply 500 grams to 1 kg per acre and as a yeast feed supplement, prefer 5-10 grams per kg of feed. Storage: Store in a cool and dry place. Once you open the pack, use it within 7 days. The well-being and health graphs of aquaculture differ with places and temperature. Biofera’s Bacill Yeast with high-performance Bacillus, a friendly bacteria and concentrated yeast for aquaculture. It’s meant for shrimps and their well-being as a probiotic mix. It helps you get rid of foreign bacteria and improves friendly microbes, enhances FCR and growth of shrimps, etc.Less",
+    "price":"479"
+  },
+  {"id":33,
+    "image":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ9x_DoR1sVsHAeaJqn79BWpKpWOupfO-xE5PFPiB1Qh9I7rYQ2kxUz7-vH14WfWs6sUGL6RGyjxZ3b_hbUeLkJ95f5QmGhM-r9oXntP5taNUtin50umj9G",
+    "name":"Animal Essentials",
+    "description":"Natural Calcium and Essential Minerals from the SeaSupplement for Dogs & CatsThis calcium is 100% Natural, of vegetative origin from seaweed harvested from the seabed off the Southwest coast of Ireland. Tested for purity. Directions Add 1 Teaspoon to each pound of home prepared food or as directed by your veterinarian. Each teaspoon contains about 3 grams. Disclaimer These statements have not been evaluated by the FDA. These products are not intended to diagnose, treat, cure, or prevent any disease.",
+    "price":"3499"
+  },
+  {"id":34,
+    "image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT1PQKzJSJbl3Vo4YBLtwhBKVZUHb2Wsn1OQ-JJ03TDHQEmcjCaLGa7qeZK89iSOgtQNXt42iglreb-ZarooH2Vo0cGldM0kmrkmGC6bXzHLMBvsZ0wOpQ7qA&usqp=CAE",
+    "name":"Probiotics Aquaculture ",
+    "description":"Made in India Probiotics for Fish Farming, Shrimp, and Aquaculture. The Product Probiotic Improves Water Quality, Growth Parameters, Floc Composition for Better Weight gains. Also works in Bottom of the Tank. It's very profitable for your fish farm",
+    "price":"1599"
+  },
+  {"id":35,
+    "image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ9HY9wKocx46Ht3TQ9UBWqNlUOjdxhewmPkF1jvbhKXecbUIDETWIW2qYfAU4ecfK8eYhAi2uyFOJwU0z55SocjCdjovccXFHHlIJwWaYF_QPZjfBmb4hrUQ&usqp=CAE",
+    "name":"ANFOTAL NUTRITIONS",
+    "description":"Aqua Grow Up Premix And Mineral Mixture For Fish & Shrimp Aquaculture Prevents Vitamin & Mineral Deficiency. Gives Quick Relief From The Stress Caused Due to Transportation/shifting Climatic Disturbances and other Stress Factors. Reduce Mortality Ratio. Aids In Maintaining Immunity Enhances Body Weight & Growth. Helps to Give Better FCR Aqua Grow Up Premix And Mineral Mixture For Fish & Shrimp Aquaculture Benifits Prevents Vitamin & Mineral Deficiency. Gives Quick Relief From The Stress Caused Due to Transportation/shifting Climatic Disturbances and other Stress Factors. Reduce Mortality Ratio Aids In Maintaining Immunity Enhances Body Weight & Growth Helps to Give Better FCR USAGE AND ADMINISTRATION Fishes, Prawns, & Shrimps 10-20 gm/kg of feed STORE IN A OrasDirectedByVeterinarian/Consultant. COMPOSITION EACH 1KG CONTAINS: MULTI VITAMINS: Vitamin A 5000 IU Vitamin-D3 1000 IU Vitamin B1 10.00 mg Vitamin B2 10.00 mg Vitamin B6 5.00 mg Vitamin B12 15.00 mcg Vitamin B3 75.00 mg Vitamin B5 10.00 mg Vitamin C 150.00 mg Vitamin E 25.00 mg Vitamin H 5.00 mg Vitamin B9 5.00 mg",
+    "price":"1999"
+  },
+  {"id":36,
+    "image":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS-OYYDfs4WQcxB6DhDP-kzzWAxw5XbUu_pCbyj56Yq7BvpYH1uPnswa4Cwd14YKu-rv_PWwDkleIgc5lBc5DvyWpOtZam44LHXjUeNZiMSAlyHesRS55nT2Q&usqp=CAE",
+    "name":"Double Growth Agribegri",
+    "description":"Double-growth gold strong growth promoter for fish & shrimp & aquaculture feed supplements. Composition:- Each 100g has a nutritional value of 23gm protein and 14 nutritionally essential amino acids. With 12 chelated minerals and carbohydrates. Benefits Enhances body weight of shrimp prawns. Fast body growth and body weight gain. Develop new tissues. Keep the aquatic life active. Prevents stress & acts as an immune modulator & antioxidant. Effective in vitamin deficiency and malnutrition. Reduce mortalities. Acts as a supportive therapy in the conditions like molting, anorexia, fatty liver, etc. Usage & Administration:- 2 kg per ton of feed (regular treatment) 5-10gm per kg feed (medical treatment) or as recommended by an aquaculture consultant/expert.",
+    "price":"1299"
+  },
+  {"id":37,
+    "image":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS0rYt4bax5gSnFBfHKIBo4ZmJ9u2ynF3hmzsFNmCQV7Yt2_9H41KwBz2VHblfRRK-W3oQrFhq7wyzsv4RWNKjtPJ9AQaj_U0a8uHfmUmp96IzzjJuOA-a7&usqp=CAE",
+    "name":"CP EcoBac",
+    "description":"CP EcoBac Probiotics CP EcoBac Probiotics is designed to use in Fish Culture to reduce the matter accumulation and improve the water quality in culture ponds. Eco-Bac contains naturally occurring beneficial micro organisms which have been developed and produced by highly advanced modern techniques. Eco-Bac produces huge amount of extracellular enzymes to degrade the organic matter and also reduces ammonia and other toxic gases to get better ADG and higher production. Composition: Bacillus sp. 10⁸ cfu/gm Net Weight: ¹ Kg Directions For Use: During Pond Preparation After pond preparation use Eco-Bac ¹ kg per acre and mix with ²⁰ ltrs of water and spray all over the pond mainly in the black soil areas. During Culture Mix Eco-Bac ¹-² kg per acre with ²⁰ litre of water and after ² hours apply all over the pond and operate the aerators for uniform distribution. Storage: CP EcoBac Probiotics is vacuum packed and the unopened pack can be used upto ²⁴ months from the date of manufacture. If Eco-Bac once opened should be used within a weeks time. Eco-Bac should be stored in a cool and dry place. Note: Feed Supplement For Aquaculture Use Only. We Have A Wide Range Of Products For Water Treatment In Fish Farming. Click on the link to see other products used for fish farming. We also have supplements and Probiotics used for better growth of fishes.",
+    "price":"410"
+  },
+  {"id":38,
+    "image":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQggpTlWZMd2HwslQM0COvalqfR2bo6aU5rZAAnQs6c_y7GYNgh2LXEvBcXe_wt7pj7CiQKJBPmAdOaHnovfJw_FrmyH7oii2rPT2NXVr00tph-FboSBZah3A&usqp=CAE",
+    "name":"BioRemid-Aqua 1kg",
+    "description":"BioRemid-Aqua is a proprietary blend of highly concentrated carefully selected consortium of beneficial, cost-effective, naturally occuring microorganism and biochemical accelerators. When added to aquatic systems attack, degrade,and liquefy fecal mass,undigested food and other oraganic that contribute to conditions unacceptable to good aquatic system management and production. BENEFITS- 1.Antagonism to pathogens. 2.Pathogen inhibitory activites. 3.Favorable micro bio-diversity. 4.Mineralisation-Nitrification. 5.Eliminates toxic gases. 6. Improve pond bottom conditions & sedment and water quality. 7.Enhance nutrient recycle.",
+    "price":"1999"
+  },
+  {"id":39,
+    "image":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRVjwmjdvGKJ2pZokn4tC_SMj112MawqV3EgBx3eOep8jE_nOjX6MlvRtXsHnzznYwCanhZMD1KopyRyeQOfECM77PQy18OKklUgMl40EuaztQxkgUiloiZ&usqp=CAE",
+    "name":"Insta-Ox",
+    "description":"Instant Oxygen Release: Provides rapid and efficient oxygen infusion into water. Fish and Shrimp Support: Satisfies oxygen requirements of both fish and shrimp. Enhanced Pond Health: Contributes to a healthier pond environment. Tablet/Granule Form: Available in convenient tablet or granule format. Aquatic Oxygen Boost: Helps maintain optimal oxygen levels for aquatic life. Effective Solution: Addresses oxygen deficiency swiftly and effectively. Pond Oxygenation: Promotes oxygenation for improved fish and shrimp well-being.",
+    "price":"700"
+  },
+  {"id":40,
+    "image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSI7dYrEAWpDzKsZL22iS7fwJ1cPNPeZvszGzn-90I3Rs8qN3bc6X-f89GmorwegEqwZarkPM6zwa1wx5BM3RMGPhiCwd43GrQI7MOlOWQayS2vvndqGWAxHw&usqp=CAE",
+    "name":"PetzLifeworld",
+    "description":"High Hatching Rate Artemia Cysts (Brine Shrimp Eggs) are harvested from salt concentrative pounds or salt lakes. Nauplii hatched from the cysts provide one of nature's finest nutritious foods for tiny shrimp and fish. Hatching Instructions: Use a clear plastic or glass bottle for small quantities. For larger quantities use a 10-55 gal. (38- 208 L) fibreglass tank. Use clean sea water or artificial salt water with a specific gravity of 1.01 to 1.02. The optimum pH is 7.5-8.5. If necessary, add an alkaline solution made from soda ash or sodium sulfate to raise the pH. During hatching, use sufficient aeration to keep all eggs in circulation at all times. Pump the air through an airstone to get a smooth flow. The optimum hatching temperature is 28-300C. Most hatching will occur after 20-36 hours. To harvest, remove the air supply and wait 10-15 minutes. The nauplii will school on the bottom. Siphon them into a fine mesh net using a plastic tube. Store cysts in a cool, dry place. For maximum preservation cysts can be frozen.",
+    "price":"1299"
+  },
+  {"id":41,
+    "image":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRnT-TvczOLbX92KJL7tkivIEFT8M40ChXUw_VyZ3fwSvnnhifi-bSqut5tlvrHSl9rtddRBBMWhrPuv_2i2jY5hkv7eYcAw4cZya_pGt6L9zc2JGX6PBr6QQ&usqp=CAE",
+    "name":"ULTRASIL-AQUA",
+    "description":"UltraSil-Aqua TECHNOLOGICAL ADDITIVE FOR IMPROVED GROWTH OF SHRIMP, PRAWN AND FISH IN AQUACULTURE PONDS The growth and yield of Shrimp, Prawn and Fish depend largely on the favourable water quality characteristic in aquaculture ponds. Periodic water quality monitoring together with appropriate measures to control or prevent quality deterioration should become integral part of the shrimp farming programme. In Shrimp farming systems, excess feed, fecal matter and sudden increase or decrease in algal and microbial populations may cause drastic changes in water quality parameters. Apart from these physicochemical parameters such as salinity, pH, ammonia, hydrogen sulphide, carbon dioxide does play a vital role in the survival and growth of Shrimp, prawn and Fish. Poor water quality and lack of proper management will cause severe water quality problems by building up of toxic ammonia, nitrate, hydrogen sulphide and increased oxygen demand, thereby inducing stress in shrimp and fish and predisposing them to pathogenic infections. Active Silicon and Aluminium are the main components of UltraSil-Aqua and are very powerful substances for physical control of toxins like ammonia, nitrite and hydrogen sulphide. UltraSil-Aqua purifies water and improves dissolved oxygen content of water. UltraSil-Aqua absorbs Ammonia, Hydrogen Sulphide, Carbon Dioxide and other poisonous gases, thereby achieving improved feed efficiency in Shrimp, Prawn and Fish. The powdered form of UltraSil-Aqua provides a vast surface area for absorption and makes the habitat of Shrimp, Prawn and Fish clean and healthy. Benefits: Better survival rate of shrimp and fish Improved feed intake of shrimp and fish Good growth rate of shrimp and fish Composition: Multi minerals of Hydrated Sodium Allumino Silicates. Usage Instructions: Aquaculture Feed Application: 5 kg to 10 kg per 1.0 ton of feed Aquaculture Pond Application: 10 kg to 40 kg per Acre or as advised by Aquaculture Consultant.",
+    "price":"1650"
+  },
+  {"id":42,
+    "image":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRMS9u6XFJNsCUKrlazCZIWV-kOMUmqcqHBmZsKCs4gPlJjPzDbaXjnZ097Qgy52oegsbqILembc6E8CiWm24x_UCexcvJmK1OEb4KEQ6xiVj9a6lDfBEq0&usqp=CAE",
+    "name":"REFIT ANIMALg ",
+    "description":"Ingredients: Vitamins, Minerals, Herbs Intended Use: Growth and Performance, Vitamins and Supplements Breed Recommendation: Fish, Prawn, Shrimp, Aquatic Animals| Storage Instructions: Store in a cool and dry place, away from sunlight Specific Uses of Product: Helps to release oxygen levels instantaneously, Helps to relieves animal from stress, Helps to control anaerobic bacteria growth, Helps to reduce toxic gasses of pond, Helps to avoid mass mortality, Helps in overall growth Special Features: It helps to control anaerobic bacteria growth - It helps to reduce toxic gasses of pond - It helps animals to reduce stress - It helps to avoid mass mortality - It helps to reduces toxic nitrite and hydrogen sulfide levels - Use By 24 Months from the date of manufacturing - Date of Manufacturing mentioned on product - Please read all label information on delivery Shop wide range of Oxygen Tablets for Biofloc from the house of REFIT ANIMAL CARE on Amazon. This Oxygen Tablets for Fish Pond has Vitamins, Minerals & Herbs. OXYFORTE TABLETS is Oxygen Tablets for Aqua that helps in releasing dissolved oxygen levels instantaneously. It helps to reduce toxin gasses of pond. It helps to controls anaerobic bacteria growth. It also helps to reduce pollution from pond. Its an ideal feed supplement for Fish Prawn, Shrimp, Aquatic Animals. Please read all label information on delivery, Keep Your Aquatic Animals Healthy. Feeding Schedule : Low Density - 1 Kg per acre High Density - 2 Kg per acre",
+    "price":"2499"
+  },
+  {"id":43,
+    "image":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSfWfPw8dBhXPzpch09PcnnOYUhR4SN_Zz-3Z_yyG1QMUfrvzGRckTjEM08b4dcSfpeHSpOJCJgvjhSENUHmql66gurWIb9-4s_vLaw3JZ6ssww8HztYclY",
+    "name":"Hikari Crab Cuisine",
+    "description":"The Hikari crab cuisine food is enriched with calcium and other required nutrients to promote proper shell developement for necessary defense from predators. The stick are rapid sinking allowing most bottom feeding scavengers to access its balanced nutrition. For lobsters, shrimp, underwater crawfish and other aquatic scavengers, feed 1 to 4 mini sticks twice a day based on size. For hermit crabs feed in a clean shallow dish once per week, after 24 hrs remove dish from encloser. Feed amount equal to 2 grams of food per hermit crab. Remove uneaten food after feeding times. Calcium enriched for healthy shell developement Suitable for Lobsters, shrimp, crawfish etc.",
+    "price":"499"
+  },
+  {"id":44,
+    "image":"https://5.imimg.com/data5/SELLER/Default/2022/8/FB/IK/JJ/7536016/biofit-aqua-culture-probiotics-for-organic-fish-farming-biofloc-aqua-farming-fish-pond-500x500.jpeg",
+    "name":"Netsurf",
+    "description":"Biofit Aqua Culture is a microbial consortium of probiotics bacteria that helps to create a healthy environment in ponds, biofloc, aqua farming & fish tank. It rapidly degrades excess and waste organic matter like sediments, excreta and chitinous materials in the pond, biofloc tank, aqua farming, fish tank and improves the water quality. Consumption of this probiotic culture creates a healthy gut flora in Fish, Shrimp and Prawns. It also suppresses the growth of undesirable microbes and keeps the pond water, biofloc & fish tank water clean.",
+    "price":"280"
+  },
+  {"id":45,
+    "image":"https://4.imimg.com/data4/SE/KC/MY-4704692/aqua-probiotics_manufacturer_supplier-in-hyderabad-500x500.jpg",
+    "name":"Aqua Probiotics",
+    "description":"FEED PROBIOTIC IMMUNE BOOSTER it is a unique combination of probiotics with enzymes and vitamins for aqua culture. It is free from all impuritiesMix the required quantity of feed probiotic in feed with binder and shade dry for 5 minutes before application",
+    "price":"1200"
+  }
+
+],
+
+
+  "SeriProducts":[
+    {"id":46,
+      "image":"https://s.alicdn.com/@sc04/kf/UTB84C83FFfFXKJk43Otq6xIPFXa6.jpg_720x720q50.jpg",
+      "name":"Silkworm Cocoons",
+      "price":"459",
+      "description":"Silkworms are actually a type of caterpillar that spins silk cocoons around themselvesafter they turn approximately 1 month old. Whenever they are finally ready to start spinning their cocoon,they will stop eating any food and then they will turn yellowish.At this point, it will then take the silkwormapproximately 3 days to spin their cocoon around themselves.If their threads are disturbed by anything, the silkwormwill have to start all over again spinning a new cocoon."
+
+    },
+    {"id":47,
+      "image":"https://s.alicdn.com/@sc04/kf/Hc30399f67ded4a5c94bfab3cb2ec2127w.jpg_720x720q50.jpg",
+      "name":"Silkworm Egg Hatching Platform",
+      "price":"584",
+      "description":"Plastic non-toxic material, professionally used for hatching silkworm eggs into small silkworms."
+    },
+    {"id":48,
+      "image":"https://s.alicdn.com/@sc04/kf/H0b799500bec945ff945e5e29d272d1530.jpg_720x720q50.jpg",
+      "name":"Silkworm Diet",
+      "price":"584",
+      "description":"Silkworm diet is an artificial feeds for silkworm .It 's made of protein powder,mulberrypowder,trace elements.Silkworm can feed on this instead of Mulberry leaves."
+    },
+    {"id":49,
+      "image":"https://i.ebayimg.com/images/g/wXsAAOSwEppUMINU/s-l1600.jpg",
+      "name":"Powered Mulbeery Food",
+      "price":"1200",
+      "description":"If you do not have fresh mulberry leaves for your silks then you must have our powdered silkworm chow.how much food one silkworm will need to get to full size I go by 6 grams of dry powder per worm to get to cocoon,now this could be a little above or below what you will find it all depends on how much of the food is eaten and howmuch is left over.you will be able to raise about 38 silkworms to moths with one half pound bag of powder."
+    },
+    {"id":50,
+      "image":"https://i.ebayimg.com/images/g/rtgAAOSwmz1gFy41/s-l1600.jpg",
+      "name":"Silkworm Eggs 500 Count",
+      "price":"1000",
+      "description":" Colour and the size of silkworm eggs are the uniformity and healthy.Practical hatching ratio shall be not less than 98%(hatching ratio within 2 days)."
+    },
+    {"id":51,
+      "image":"https://oregonsilkworms.com/wp-content/uploads/2016/09/IMG_002060802-510x383.jpg",
+      "name":"Heat Pack",
+      "price":"125",
+      "description":"In the winter season be sure to add a heat pack to your order to make sure your worms arrive healthy!"
+    },
+    {"id":52,
+      "image":"https://i.ebayimg.com/images/g/KVsAAOSwOAxkimyA/s-l1600.jpg",
+      "name":"Live Silkworms",
+      "price":"2000",
+      "description":"Silkworms care:When the silkworms arrive, carefully pull the mesh out of the box and lay it flat on the bottom of a larger,open air container. Move the worms and food into the new container. The food that comes with the worms lasts about 2 days (through shipping).If you don't plan to feed them to your reptile within the first days of receiving, please order extra food or feed them mulberry leaves ifyou have access."
+    },
+    {"id":53,
+      "image":"https://i.etsystatic.com/20705170/r/il/d19ead/5075862177/il_794xN.5075862177_h7gr.jpg",
+      "name":"Mulberry Leaves",
+      "price":"262",
+      "description":"ilkworms have specific nutritional requirements, and mulberry leaves provide the ideal balance of nutrients needed for their growth anddevelopment. Mulberry leaves are rich in proteins, carbohydrates, vitamins, and minerals, making them a highly suitable food source for silkworms."
+    },
+    {"id":54,
+      "image":"https://s.alicdn.com/@sc04/kf/Hf143edea74d64e238819b8f1131261a4o.jpg_720x720q50.jpg",
+      "name":"Sericulture Farm",
+      "price":"1000",
+      "description":"Automatic silkworm rearing machine is a kind of equipment specially used for breeding silkworms.It realizes the joint mechanical operation of cutting mulberry, feeding mulberry, disinfection, moving cocooncases and automatically controlling the breeding environment. With the features of centralized control, high automation,simple operation, convenient use and free customization,the silkworm breeding production has been mechanized, intelligentized."
+    },
+    {"id":55,
+      "image":"https://s.alicdn.com/@sc04/kf/H6b02683b69484fe4a039019cdbef3043q.jpg_720x720q50.jpg",
+      "name":"Insect Breeding",
+      "price":"399",
+      "description":"insect breeding box is intended for insect breeding. This newly modeled box will provide a stable temperaturewith a certain level of humidity. The boxes are made of a food-safe certified polypropylene (PP) material.The use of PP materialensures that the boxes are dimensionally very stable and that they can be cleaned at high temperatures."
+    },
+    {"id":56,
+      "image":"https://krushikendra.com/image/cache/catalog/Products_New/Malathion-250x250.gif",
+      "name":"Malathion",
+      "price":"486",
+      "description":"Malathion is typically used in sericulture for the control of external parasites and pests that can affect silkworms,particularly in the larval stage. While it is not used to treat diseases in silkworms, it can be employed to manage certain pests thatcan pose a threat to silkworm health and the quality of silk production.Malathion can also be  used for effective against various leaf-eatinginsects that infest mulberry leaves, which are the primary food source for silkworms."
+    },
+    {"id":57,
+      "image":"https://m.media-amazon.com/images/I/41uEPd2iRzL._AC_SX466_.jpg",
+      "name":"Carbaryl(sevin)",
+      "price":"1000",
+      "description":"Silkworms, particularly the larvae (caterpillars), are susceptible to various insect pests. These pests can damage or killthe silkworms and their cocoon production, leading to lower silk yields. Carbaryl is effective against a wide range of insect pests, includingcaterpillars, moths, and beetles, making it useful for protecting the silkworms from these threats."
+    },
+    {"id":58,
+      "image":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSaExlSomaie0A0yQf_KvoXbzs8KLtttMyAdBTC9H9FVrpFEjGOWaW-t5QGQRbc5ushyCGS4eExLOVRC7lecV7Geco7kwpbSdWS99XtKXE1i_IPPSqWP7Zq",
+      "name":"Liquid copper fungicide",
+      "price":"3700",
+      "description":" Sericulture, the cultivation of silkworms for silk production, is susceptible to various fungal diseases, such as flacherie, grasserie,and muscardine. Liquid copper fungicides are effective in controlling these fungal diseases and preventing their spread among silkworms."
+    },
+    {"id":59,
+      "image":"https://m.media-amazon.com/images/I/51qFz861C0L._SY445_SX342_QL70_FMwebp_.jpg",
+      "name":"Sulphur-DP 90%",
+      "price":"360",
+      "description":"Sulfur can help disinfect the rearing equipment, trays, and other materials used in sericulture. It can be used to sterilize the environmentto create a clean and healthy space for silkworms to grow and produce silk.Using sulfur as a preventive measure can help sericulturists maintain a healthyand disease-free silkworm population, ultimately leading to better silk production."
+    },
+    {"id":60,
+      "image":"https://image.made-in-china.com/202f0j00hkiWoQdrYvfY/Factory-Price-Methoprene-95-Tc-Mosquito-Material-S-Methoprene-20-CS-Mosquito-Larva-Killer-Larvacide-Insecticide-CAS-40596-69-8.webp",
+      "name":"Methoprene",
+      "price":"2950",
+      "description":"Methoprene can interfere with the natural life cycle of silkworms. It acts as a juvenile hormone mimic, preventing the larvae from undergoing metamorphosis and pupating into moths.By extending the larval stage of the silkworms, more silk can be produced, resulting in larger and more valuable cocoons."
+    },
+    {"id":61,
+      "image":"https://www.rayfull.net/uploads/202028235/fenoxycarb39569137972.jpg",
+      "name":"Fenoxycarb insecticide",
+      "price":"500",
+      "description":" fenoxycarb is used in sericulture to protect silkworms from specific insect pests, helping to ensure a healthy and productive silkworm population, which in turn contributes tothe production of high-quality silk. It is not used as a fertilizer; its primary purpose is pest control and insect population management."
+
+    },
+    {"id":62,
+      "image":"https://5.imimg.com/data5/SELLER/Default/2022/1/HD/ON/MT/145400703/urea-n46.jpg",
+      "name":"Urea",
+      "price":"300",
+      "description":"Urea is a nitrogen-rich fertilizer, and nitrogen is an essential nutrient for plant growth. It is a crucial element in the formation of amino acids, proteins, and chlorophyll, which are vital components for plant development.Mulberry plants require ample nitrogen to produce lush, green leaves. Silkworms primarily feed on these leaves, and the quality and quantityof leaves are directly related to the health and growth of the silkworms."
+
+    },
+    {"id":63,
+      "image":"https://m.media-amazon.com/images/I/6121dkt8aGL._SX466_.jpg",
+      "name":"Vermicompost",
+      "price":"149",
+      "description":" Vermicompost enhances soil structure by improving its texture, aeration, and water-holding capacity. This can create an optimal  growing environment for mulberry plants, allowingtheir roots to access nutrients more easily."
+    },
+    {"id":64,
+      "image":"https://m.media-amazon.com/images/I/41jMCnnYCzL._SY445_SX342_QL70_FMwebp_.jpg",
+      "name":"NPK",
+      "price":"209",
+      "description":"NPK fertilizers provide a balanced combination of essential nutrients for plant growth. Each of these nutrients serves specific functions in plant development.NPK fertilizers provide a balanced combination of essential nutrients for plant growth. Each of these nutrients serves specific functions in plant development."
+    },
+    {"id":65,
+      "image":"https://m.media-amazon.com/images/I/31eQEl-jqGL._SX300_SY300_QL70_FMwebp_.jpg",
+      "name":"Neem-Oil",
+      "price":"141",
+      "description":"Neem oil has insecticidal properties and can be used to control various pests that affect silkworms and mulberry trees (the primary food source for silkworms).Neem oil can help in managing pests like mites, aphids, caterpillars, and other insects that can harm silkworms and mulberry leaves."
+
+
+    },
+    {"id":66,
+      "image":"https://m.media-amazon.com/images/I/51BbAjQRVwL._SX522_.jpg",
+      "name":"Bio-Larvicid",
+      "price":"390",
+      "description":" Bio larvicides are effective in controlling a variety of insect pests that can harm silkworms and mulberry plants. Common pests in sericulture, such as various Lepidopteran larvae (moths and butterflies), can be effectively managed with bio larvicides."
+    },
+    {"id":67,
+      "image":"https://m.media-amazon.com/images/I/41siwya+GvL._SY300_SX300_.jpg",
+      "name":"Cow manure",
+      "price":"89",
+      "description":"Cow manure is not typically used directly in sericulture for the rearing of silkworms or the production of silk. Instead, it is more commonly used in the context of mulberrycultivation, which is the primary food source for silkworms"
+
+
+    }
+
+  ]}
